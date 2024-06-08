@@ -22,5 +22,15 @@ Wannan ilimin ne nake so na juye muku shi a nan ciki awa dari don ku zama kwarar
 ## 3. Cryptography
 ## 4. Smart Contract Development
 ## 5. Web Development
+Wadannan sune abubuwan da zamu koya a cikin wannan course din.
 Zan kara da:
 ## 6. Samar da Github portfolio mai cike da high quality projects don samun aiki cikin sauki
+
+## Wasu Online Resources
+1. Bincika waye [https://en.wikipedia.org/wiki/Satoshi_Nakamoto] (Satoshi Nakamoto))
+
+2. [https://bitcoin.org/bitcoin.pdf] (Bitcoin Whitepaper)
+
+3. [https://x.com/VitalikButerin] (Vitalik Buterin)
+
+4. [https://ethereum.org/en/whitepaper/] (Ethereum Whitepaper)
