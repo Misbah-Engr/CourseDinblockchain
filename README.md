@@ -1,5 +1,5 @@
-# CourseDinblockchain
-Wannan shine course din Blockchain na farko da Hausa a Duniya.
+# Course Din Blockchain Development
+Wannan shine course din Blockchain Development na farko da Hausa a Duniya.
 ## “IDAN KA KASHE WATA UKU BAKA KOMAI SAI KOYO TARE DA JAGORANCI ZAKA IYA ZAMA BLOCKCHAIN DEVELOPER” 
 Inji DS Central, kuma zaka iya samun aiki a cikin wata 12 na farko idan kayi da gaske.
 Fasahar Blockchain, ‘Mahadi ka ture’ kamar yadda Marigayi Malam Nasir Mahuta ya kira ta, ta riga ta zama ruwan dare mai game duniya. Manyan kamfanonin takanoloji na duniya irinsu Meta, Google, da Microsoft, kawai zuba hannun jari suke a Blockchain development don su fada cikin Blockchain da karfinsu. Yanzu dukkan wadannan kamfanonin ai kowa da abinda yake ginawa, amma a ina suka yi kama?
